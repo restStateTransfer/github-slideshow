@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+"Just win baby" - Al Davis
 Use the left arrow to go back!
